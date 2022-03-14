@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T/BFUwpgis/XUpQyrmTOkvioEktMZJaGI43s3VHXv7ZRIWTtOHKdMJaazHBvNM0aWHiFLYK2HxG8O3yyQnt46Q==",
+  "dgSpecHash": "P6RtgjJE54S03Tn6g3c44Y16zsZDQv+DrFJWM9uPfI22H/veV1qA7H0WoyGjTA8JWyTrOAj5jpsREPVoUe6EjA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ryan Burgess\\source\\repos\\RacingCultureStatsAPI\\RacingCultureStatsAPI\\RacingCultureStatsAPI.csproj",
+  "projectFilePath": "C:\\Users\\Ryan Burgess\\source\\repos\\RacingCultureStatsAPI\\RacingCultureStatsAPI\\RacingCultureStatsAPI.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ryan Burgess\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Ryan Burgess\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
